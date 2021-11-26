@@ -256,5 +256,747 @@
       "state": "MD",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRta2H3QTk7sw7Uekz1az4S9dCugf8TZJtLLA&usqp=CAU"
     }
+  ],
+  "mlb": [
+    {
+      "id": 1,
+      "stadium_name": "Chase Field",
+      "team_name": "Arizona Diamondbacks",
+      "city": "Phoenix",
+      "state": "AZ",
+      "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/up16_bottom.jpg"
+    },
+    {
+      "id": 2,
+      "stadium_name": "Truist Park",
+      "team_name": "Atlanta Braves",
+      "city": "Cumberland",
+      "state": "GA",
+      "image": "https://images.squarespace-cdn.com/content/v1/54f4cf23e4b02841c1824db0/1505447450485-HRMQ3CAWR5IV76DP8ROH/atlanta+falcons+new+stadium"
+    },
+    {
+      "id": 3,
+      "stadium_name": "Oriole Park at Camden Yards",
+      "team_name": "Baltimore Orioles",
+      "city": "Baltimore",
+      "state": "MD",
+      "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/mtbank16_bottom.jpg"
+    },
+    {
+      "id": 4,
+      "stadium_name": "Fenway Park",
+      "team_name": "Boston Red Sox",
+      "city": "Boston",
+      "state": "MA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0X7BoBA-W9aMirKp22k7ASCNp0VAtxIUu8Q&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "stadium_name": "Wrigley Field",
+      "team_name": "Chicago Cubs",
+      "city": "Chicago",
+      "state": "IL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiy_kNTXHtZtC0wObH7-FZCCrqYawcYq1aBw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "stadium_name": "Guaranteed Rate Field",
+      "team_name": "Chicago White Sox",
+      "city": "Chicago",
+      "state": "IL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpy9un0LVnxLrQ-ssknsnl2fzlb-x2csaHJg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "stadium_name": "Great American Ball Park",
+      "team_name": "Cincinnati Reds",
+      "city": "Cincinnati",
+      "state": "OH",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhvlGYD1IGuBqEkSrmgrsTv7cSB1ldjE9mA&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "stadium_name": "Progressive Field",
+      "team_name": "Cleveland Guardians",
+      "city": "Cleveland",
+      "state": "OH",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3aVsYHRdbcMFbDD5npHGakRQ_SdTpjWq9Q&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "stadium_name": "Coors Field",
+      "team_name": "Colorado Rockies",
+      "city": "Denver",
+      "state": "CO",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBOp2ne3EeHx-8M1vtDsq5DniZwnw7YZy5Q&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "stadium_name": "Comerica Park",
+      "team_name": "Detroit Tigers",
+      "city": "Detroit",
+      "state": "MI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJ9spJtMMOc5hqZ9TnbWd8HKgqrNqSni37A&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "stadium_name": "Minute Maid Park",
+      "team_name": "Houston Astros",
+      "city": "Houston",
+      "state": "TX",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdY5JPYOqB-7w_S84YrOYSyg0jUUUO8G9R6w&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "stadium_name": "Kauffman Stadium",
+      "team_name": "Kansas City Royals",
+      "city": "Kansas City",
+      "state": "MO",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDe_AMTGL4T8YIyiYHq6NmzQ52Y5o42sLkw&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "stadium_name": "Angel Stadium",
+      "team_name": "Los Angeles Angels",
+      "city": "Anaheim",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFTlu5yLAXVf5-V4GTu7ooB95s0KzFocwyjg&usqp=CAU"
+    },
+    {
+      "id": 14,
+      "stadium_name": "Dodger Stadium",
+      "team_name": "Los Angeles Dodgers",
+      "city": "Los Angeles",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwonNgUGjxhNAAQefM3IsxbgCMv86jmai3uw&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "stadium_name": "LoanDepot Park",
+      "team_name": "Miami Marlins",
+      "city": "Miami",
+      "state": "FL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn38ikYiwM8fkALEm1xqipU2npPOsj_R-NA&usqp=CAU"
+    },
+    {
+      "id": 16,
+      "stadium_name": "American Family Field",
+      "team_name": "Milwaukee Brewers",
+      "city": "Milwaukee",
+      "state": "WI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cnSV256JZ03WOBwVhGrE9qfxAUDj6oHtWQ&usqp=CAU"
+    },
+    {
+      "id": 17,
+      "stadium_name": "Target Field",
+      "team_name": "Minnesota Twins",
+      "city": "Minneapolis",
+      "state": "MN",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49F54d7WNMeKhu7CcNs-QkIf82i2DmBDqaw&usqp=CAU"
+    },
+    {
+      "id": 18,
+      "stadium_name": "Citi Field",
+      "team_name": "New York Mets",
+      "city": "Queens",
+      "state": "NY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuIo94CQ7qQz5QK06RtQXCOZaNv6KFwaGXw&usqp=CAU"
+    },
+    {
+      "id": 19,
+      "stadium_name": "Yankee Stadium",
+      "team_name": "New York Yankees",
+      "city": "Bronx",
+      "state": "NY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qshxRejZ66s1l37Cy54ZI4uw-DInm--D7Q&usqp=CAU"
+    },
+    {
+      "id": 20,
+      "stadium_name": "Oakland Coliseum",
+      "team_name": "Oakland Athletics",
+      "city": "Oakland",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzb5cQkjYnf0_14jqkOcLbCh8pcpxzJ584w&usqp=CAU"
+    },
+    {
+      "id": 21,
+      "stadium_name": "Citizens Bank Park",
+      "team_name": "Philadelphia Phillies",
+      "city": "Philadelphia",
+      "state": "PA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpRyGQ_6Sg1towHCImiw5qZ41kofa_SmljYw&usqp=CAU"
+    },
+    {
+      "id": 22,
+      "stadium_name": "PNC Park",
+      "team_name": "Pittsburgh Pirates",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrqnHUVmV8U7eY8VpSmsWTtCJHjrbdY5XEQ&usqp=CAU"
+    },
+    {
+      "id": 23,
+      "stadium_name": "Petco Park",
+      "team_name": "San Diego Padres",
+      "city": "San Diego",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncW17A5XQCnVdmHSHD2z2wYkxwZJzL24aJA&usqp=CAU"
+    },
+    {
+      "id": 24,
+      "stadium_name": "Oracle Park",
+      "team_name": "San Francisco Giants",
+      "city": "San Francisco",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl3Vsw6MuMJX-69JkRyInbjkEF-ER8tyBTyA&usqp=CAU"
+    },
+    {
+      "id": 25,
+      "stadium_name": "T-Mobile Park",
+      "team_name": "Seattle Mariners",
+      "city": "Seattle",
+      "state": "WA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhRjDt1wHPYx9cqclnYF0qEpAIWZDkAo7jw&usqp=CAU"
+    },
+    {
+      "id": 26,
+      "stadium_name": "Busch Stadium",
+      "team_name": "St. Louis Cardinals",
+      "city": "St. Louis",
+      "state": "MO",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQODsIZw8YCLJc_UoNx5_vVEnOqGC38i7EbA&usqp=CAU"
+    },
+    {
+      "id": 27,
+      "stadium_name": "Tropicana Field",
+      "team_name": "Tampa Bay Rays",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8wqizh9Ulwe7RmqKd7PFUbFo56wIIDYGmkw&usqp=CAU"
+    },
+    {
+      "id": 28,
+      "stadium_name": "Globe Life Field",
+      "team_name": "Texas Rangers",
+      "city": "Arlington",
+      "state": "TX",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCtwQYOv5x9ANTU9vEoX_oFM0DTGut6HKsg&usqp=CAU"
+    },
+    {
+      "id": 29,
+      "stadium_name": "Rogers Centre",
+      "team_name": "Toronto Blue Jays",
+      "city": "Toronto",
+      "state": "ON",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoQj9oHNrlo5rvZs6PVD27qwr80WlzbD3_Q&usqp=CAU"
+    },
+    {
+      "id": 30,
+      "stadium_name": "Nationals Park",
+      "team_name": "Washington Nationals",
+      "city": "Washington",
+      "state": "DC",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABig7FMuA52heBgdt_0Jayu3aRmDiJlfqrg&usqp=CAU"
+    }
+  ],
+  "nba": [
+    {
+      "id": 1,
+      "stadium_name": "State Farm Arena",
+      "team_name": "Atlanta Hawks",
+      "city": "Atlanta",
+      "state": "GA",
+      "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/up16_bottom.jpg"
+    },
+    {
+      "id": 2,
+      "stadium_name": "TD Garden",
+      "team_name": "Boston Celtics",
+      "city": "Boston",
+      "state": "MA",
+      "image": "https://images.squarespace-cdn.com/content/v1/54f4cf23e4b02841c1824db0/1505447450485-HRMQ3CAWR5IV76DP8ROH/atlanta+falcons+new+stadium"
+    },
+    {
+      "id": 3,
+      "stadium_name": "Barclays Center",
+      "team_name": "Brooklyn Nets",
+      "city": "Brooklyn",
+      "state": "NY",
+      "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/mtbank16_bottom.jpg"
+    },
+    {
+      "id": 4,
+      "stadium_name": "Spectrum Center",
+      "team_name": "Charlotte Hornets",
+      "city": "Charlotte",
+      "state": "NC",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0X7BoBA-W9aMirKp22k7ASCNp0VAtxIUu8Q&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "stadium_name": "United Center",
+      "team_name": "Chicago Bulls",
+      "city": "Chicago",
+      "state": "IL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiy_kNTXHtZtC0wObH7-FZCCrqYawcYq1aBw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "stadium_name": "Rocket Mortgage FieldHouse",
+      "team_name": "Cleveland Cavaliers",
+      "city": "Cleveland",
+      "state": "OH",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpy9un0LVnxLrQ-ssknsnl2fzlb-x2csaHJg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "stadium_name": "American Airlines Center",
+      "team_name": "Dallas Mavericks",
+      "city": "Dallas",
+      "state": "TX",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhvlGYD1IGuBqEkSrmgrsTv7cSB1ldjE9mA&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "stadium_name": "Ball Arena",
+      "team_name": "Denver Nuggets",
+      "city": "Denver",
+      "state": "CO",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3aVsYHRdbcMFbDD5npHGakRQ_SdTpjWq9Q&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "stadium_name": "Little Caesars Arena",
+      "team_name": "Detroit Pistons",
+      "city": "Detroit",
+      "state": "MI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBOp2ne3EeHx-8M1vtDsq5DniZwnw7YZy5Q&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "stadium_name": "Chase Center",
+      "team_name": "Golden State Warriors",
+      "city": "San Francisco",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJ9spJtMMOc5hqZ9TnbWd8HKgqrNqSni37A&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "stadium_name": "Toyota Center",
+      "team_name": "Houston Rockets",
+      "city": "Houston",
+      "state": "TX",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdY5JPYOqB-7w_S84YrOYSyg0jUUUO8G9R6w&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "stadium_name": "Gainbridge Fieldhouse",
+      "team_name": "Indiana Pacers",
+      "city": "Indianapolis",
+      "state": "IN",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDe_AMTGL4T8YIyiYHq6NmzQ52Y5o42sLkw&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "stadium_name": "Staples Center",
+      "team_name": "Los Angeles Clippers",
+      "city": "Los Angeles",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFTlu5yLAXVf5-V4GTu7ooB95s0KzFocwyjg&usqp=CAU"
+    },
+    {
+      "id": 14,
+      "stadium_name": "Staples Center",
+      "team_name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwonNgUGjxhNAAQefM3IsxbgCMv86jmai3uw&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "stadium_name": "FedExForum",
+      "team_name": "Memphis Grizzlies",
+      "city": "Memphis",
+      "state": "TN",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn38ikYiwM8fkALEm1xqipU2npPOsj_R-NA&usqp=CAU"
+    },
+    {
+      "id": 16,
+      "stadium_name": "FTX Arena",
+      "team_name": "Miami Heat",
+      "city": "Miami",
+      "state": "FL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cnSV256JZ03WOBwVhGrE9qfxAUDj6oHtWQ&usqp=CAU"
+    },
+    {
+      "id": 17,
+      "stadium_name": "Fiserv Forum",
+      "team_name": "Milwaukee Bucks",
+      "city": "Milwaukee",
+      "state": "WI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49F54d7WNMeKhu7CcNs-QkIf82i2DmBDqaw&usqp=CAU"
+    },
+    {
+      "id": 18,
+      "stadium_name": "Target Center",
+      "team_name": "Minnesota Timberwolves",
+      "city": "Minneapolis",
+      "state": "MN",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuIo94CQ7qQz5QK06RtQXCOZaNv6KFwaGXw&usqp=CAU"
+    },
+    {
+      "id": 19,
+      "stadium_name": "Smoothie King Center",
+      "team_name": "New Orleans Pelicans",
+      "city": "New Orleans",
+      "state": "LA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qshxRejZ66s1l37Cy54ZI4uw-DInm--D7Q&usqp=CAU"
+    },
+    {
+      "id": 20,
+      "stadium_name": "Madison Square Garden",
+      "team_name": "New York Knicks",
+      "city": "New York",
+      "state": "NY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzb5cQkjYnf0_14jqkOcLbCh8pcpxzJ584w&usqp=CAU"
+    },
+    {
+      "id": 21,
+      "stadium_name": "Paycom Center",
+      "team_name": "Oklahoma City Thunder",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpRyGQ_6Sg1towHCImiw5qZ41kofa_SmljYw&usqp=CAU"
+    },
+    {
+      "id": 22,
+      "stadium_name": "Amway Center",
+      "team_name": "Orlando Magic",
+      "city": "Orlando",
+      "state": "FL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrqnHUVmV8U7eY8VpSmsWTtCJHjrbdY5XEQ&usqp=CAU"
+    },
+    {
+      "id": 23,
+      "stadium_name": "Wells Fargo Center",
+      "team_name": "Philadelphia 76ers",
+      "city": "Philadelphia",
+      "state": "PA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncW17A5XQCnVdmHSHD2z2wYkxwZJzL24aJA&usqp=CAU"
+    },
+    {
+      "id": 24,
+      "stadium_name": "Footprint Center",
+      "team_name": "Phoenix Suns",
+      "city": "Phoenix",
+      "state": "AZ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl3Vsw6MuMJX-69JkRyInbjkEF-ER8tyBTyA&usqp=CAU"
+    },
+    {
+      "id": 25,
+      "stadium_name": "Moda Center",
+      "team_name": "Portland Trail Blazers",
+      "city": "Portland",
+      "state": "OR",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhRjDt1wHPYx9cqclnYF0qEpAIWZDkAo7jw&usqp=CAU"
+    },
+    {
+      "id": 26,
+      "stadium_name": "Golden 1 Center",
+      "team_name": "Sacramento Kings",
+      "city": "Sacramento",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQODsIZw8YCLJc_UoNx5_vVEnOqGC38i7EbA&usqp=CAU"
+    },
+    {
+      "id": 27,
+      "stadium_name": "AT&T Center",
+      "team_name": "San Antonio Spurs",
+      "city": "San Antonio",
+      "state": "TX",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8wqizh9Ulwe7RmqKd7PFUbFo56wIIDYGmkw&usqp=CAU"
+    },
+    {
+      "id": 28,
+      "stadium_name": "Scotiabank Arena",
+      "team_name": "Toronto Raptors",
+      "city": "Toronto",
+      "state": "ON",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCtwQYOv5x9ANTU9vEoX_oFM0DTGut6HKsg&usqp=CAU"
+    },
+    {
+      "id": 29,
+      "stadium_name": "Vivint Arena",
+      "team_name": "Utah Jazz",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoQj9oHNrlo5rvZs6PVD27qwr80WlzbD3_Q&usqp=CAU"
+    },
+    {
+      "id": 30,
+      "stadium_name": "Capital One Arena",
+      "team_name": "Washington Wizards",
+      "city": "Washington",
+      "state": "DC",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABig7FMuA52heBgdt_0Jayu3aRmDiJlfqrg&usqp=CAU"
+    }
+  ],
+  "nhl": [
+    {
+      "id": 1,
+      "stadium_name": "Honda Center",
+      "team_name": "Anaheim Ducks",
+      "city": "Anaheim",
+      "state": "CA",
+      "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/up16_bottom.jpg"
+    },
+    {
+      "id": 2,
+      "stadium_name": "Gila River Arena",
+      "team_name": "Arizona Coyotes",
+      "city": "Glendale",
+      "state": "AZ",
+      "image": "https://images.squarespace-cdn.com/content/v1/54f4cf23e4b02841c1824db0/1505447450485-HRMQ3CAWR5IV76DP8ROH/atlanta+falcons+new+stadium"
+    },
+    {
+      "id": 3,
+      "stadium_name": "TD Garden",
+      "team_name": "Boston Bruins",
+      "city": "Boston",
+      "state": "MA",
+      "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/mtbank16_bottom.jpg"
+    },
+    {
+      "id": 4,
+      "stadium_name": "KeyBank Center",
+      "team_name": "Buffalo Sabres",
+      "city": "Buffalo",
+      "state": "NY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0X7BoBA-W9aMirKp22k7ASCNp0VAtxIUu8Q&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "stadium_name": "Scotiabank Saddledome",
+      "team_name": "Calgary Flames",
+      "city": "Calgary",
+      "state": "AB",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiy_kNTXHtZtC0wObH7-FZCCrqYawcYq1aBw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "stadium_name": "PNC Arena",
+      "team_name": "Carolina Hurricanes",
+      "city": "Raleigh",
+      "state": "NC",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpy9un0LVnxLrQ-ssknsnl2fzlb-x2csaHJg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "stadium_name": "United Center",
+      "team_name": "Chicago Blackhawks",
+      "city": "Chicago",
+      "state": "IL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhvlGYD1IGuBqEkSrmgrsTv7cSB1ldjE9mA&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "stadium_name": "Ball Arena",
+      "team_name": "Colorado Avalanche",
+      "city": "Denver",
+      "state": "CO",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3aVsYHRdbcMFbDD5npHGakRQ_SdTpjWq9Q&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "stadium_name": "Nationwide Arena",
+      "team_name": "Columbus Blue Jackets",
+      "city": "Columbus",
+      "state": "OH",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBOp2ne3EeHx-8M1vtDsq5DniZwnw7YZy5Q&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "stadium_name": "American Airlines Center",
+      "team_name": "Dallas Stars",
+      "city": "Dallas",
+      "state": "TX",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJ9spJtMMOc5hqZ9TnbWd8HKgqrNqSni37A&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "stadium_name": "Little Caesars Arena",
+      "team_name": "Detroit Red Wings",
+      "city": "Detroit",
+      "state": "MI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdY5JPYOqB-7w_S84YrOYSyg0jUUUO8G9R6w&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "stadium_name": "Rogers Place",
+      "team_name": "Edmonton Oilers",
+      "city": "Edmonton",
+      "state": "AB",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDe_AMTGL4T8YIyiYHq6NmzQ52Y5o42sLkw&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "stadium_name": "FLA Live Arena",
+      "team_name": "Florida Panthers",
+      "city": "Sunrise",
+      "state": "FL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFTlu5yLAXVf5-V4GTu7ooB95s0KzFocwyjg&usqp=CAU"
+    },
+    {
+      "id": 14,
+      "stadium_name": "Staples Center",
+      "team_name": "Los Angeles Kings",
+      "city": "Los Angeles",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwonNgUGjxhNAAQefM3IsxbgCMv86jmai3uw&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "stadium_name": "Xcel Energy Center",
+      "team_name": "Minnesota Wild",
+      "city": "Saint Paul",
+      "state": "MN",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn38ikYiwM8fkALEm1xqipU2npPOsj_R-NA&usqp=CAU"
+    },
+    {
+      "id": 16,
+      "stadium_name": "Bell Centre",
+      "team_name": "Montreal Canadiens",
+      "city": "Montreal",
+      "state": "QC",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cnSV256JZ03WOBwVhGrE9qfxAUDj6oHtWQ&usqp=CAU"
+    },
+    {
+      "id": 17,
+      "stadium_name": "Bridgestone Arena",
+      "team_name": "Nashville Predators",
+      "city": "Nashville",
+      "state": "TN",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49F54d7WNMeKhu7CcNs-QkIf82i2DmBDqaw&usqp=CAU"
+    },
+    {
+      "id": 18,
+      "stadium_name": "Prudential Center",
+      "team_name": "New Jersey Devils",
+      "city": "Newark",
+      "state": "NJ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuIo94CQ7qQz5QK06RtQXCOZaNv6KFwaGXw&usqp=CAU"
+    },
+    {
+      "id": 19,
+      "stadium_name": "UBS Arena",
+      "team_name": "New York Islanders",
+      "city": "Elmont",
+      "state": "NY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qshxRejZ66s1l37Cy54ZI4uw-DInm--D7Q&usqp=CAU"
+    },
+    {
+      "id": 20,
+      "stadium_name": "Madison Square Garden",
+      "team_name": "New York Knicks",
+      "city": "New York",
+      "state": "NY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzb5cQkjYnf0_14jqkOcLbCh8pcpxzJ584w&usqp=CAU"
+    },
+    {
+      "id": 21,
+      "stadium_name": "Canadian Tire Centre",
+      "team_name": "Ottawa Senators",
+      "city": "Ottawa",
+      "state": "ON",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpRyGQ_6Sg1towHCImiw5qZ41kofa_SmljYw&usqp=CAU"
+    },
+    {
+      "id": 22,
+      "stadium_name": "Wells Fargo Center",
+      "team_name": "Philadelphia Flyers",
+      "city": "Philadelphia",
+      "state": "PA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrqnHUVmV8U7eY8VpSmsWTtCJHjrbdY5XEQ&usqp=CAU"
+    },
+    {
+      "id": 23,
+      "stadium_name": "PPG Paints Arena",
+      "team_name": "Pittsburgh Penguins",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncW17A5XQCnVdmHSHD2z2wYkxwZJzL24aJA&usqp=CAU"
+    },
+    {
+      "id": 24,
+      "stadium_name": "SAP Center",
+      "team_name": "San Jose Sharks",
+      "city": "San Jose",
+      "state": "CA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl3Vsw6MuMJX-69JkRyInbjkEF-ER8tyBTyA&usqp=CAU"
+    },
+    {
+      "id": 25,
+      "stadium_name": "Climate Pledge Arena",
+      "team_name": "Seattle Kraken",
+      "city": "Seattle",
+      "state": "WA",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhRjDt1wHPYx9cqclnYF0qEpAIWZDkAo7jw&usqp=CAU"
+    },
+    {
+      "id": 26,
+      "stadium_name": "Enterprise Center",
+      "team_name": "St. Louis Blues",
+      "city": "St. Louis",
+      "state": "MO",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQODsIZw8YCLJc_UoNx5_vVEnOqGC38i7EbA&usqp=CAU"
+    },
+    {
+      "id": 27,
+      "stadium_name": "Amalie Arena",
+      "team_name": "Tampa Bay Lightning",
+      "city": "Tampa",
+      "state": "FL",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8wqizh9Ulwe7RmqKd7PFUbFo56wIIDYGmkw&usqp=CAU"
+    },
+    {
+      "id": 28,
+      "stadium_name": "Scotiabank Arena",
+      "team_name": "Toronto Maple Leafs",
+      "city": "Toronto",
+      "state": "ON",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCtwQYOv5x9ANTU9vEoX_oFM0DTGut6HKsg&usqp=CAU"
+    },
+    {
+      "id": 29,
+      "stadium_name": "Rogers Arena",
+      "team_name": "Vancouver Canucks",
+      "city": "Vancouver",
+      "state": "BC",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoQj9oHNrlo5rvZs6PVD27qwr80WlzbD3_Q&usqp=CAU"
+    },
+    {
+      "id": 30,
+      "stadium_name": "T-Mobile Arena",
+      "team_name": "Vegas Golden Knights",
+      "city": "Paradise",
+      "state": "NV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABig7FMuA52heBgdt_0Jayu3aRmDiJlfqrg&usqp=CAU"
+    },
+    {
+      "id": 31,
+      "stadium_name": "Capital One Arena",
+      "team_name": "Washington Capitals",
+      "city": "Washington",
+      "state": "DC",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0CC472leOOmSDPwIMd4Z6cAOJ9IwlwEcNw&usqp=CAU"
+    },
+    {
+      "id": 32,
+      "stadium_name": "Canada Life Centre",
+      "team_name": "Winnipeg Jets",
+      "city": "Winnipeg",
+      "state": "MB",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRta2H3QTk7sw7Uekz1az4S9dCugf8TZJtLLA&usqp=CAU"
+    }
   ]
 }

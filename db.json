@@ -6,7 +6,7 @@
       "team_name": "Arizona Cardinals",
       "city": "Glendale",
       "state": "AZ",
-      "image": "https://en.wikipedia.org/wiki/List_of_current_National_Football_League_stadiums#/media/File:University_of_Phoenix_Stadium_no_field.jpg"
+      "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/up16_bottom.jpg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "team_name": "Atlanta Falcons",
       "city": "Atlanta",
       "state": "GA",
-      "image": "https://en.wikipedia.org/wiki/List_of_current_National_Football_League_stadiums#/media/File:Peach_Bowl_Pre-game_(39431667481).jpg"
+      "image": "https://images.squarespace-cdn.com/content/v1/54f4cf23e4b02841c1824db0/1505447450485-HRMQ3CAWR5IV76DP8ROH/atlanta+falcons+new+stadium"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "team_name": "Baltimore Ravens",
       "city": "Baltimore",
       "state": "MD",
-      "image": "https://en.wikipedia.org/wiki/List_of_current_National_Football_League_stadiums#/media/File:M&T_Bank_Stadium_DoD.jpg"
+      "image": "https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/mtbank16_bottom.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "team_name": "Buffalo Bills",
       "city": "Orchard Park",
       "state": "NY",
-      "image": "https://en.wikipedia.org/wiki/List_of_current_National_Football_League_stadiums#/media/File:Bills.jpg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0X7BoBA-W9aMirKp22k7ASCNp0VAtxIUu8Q&usqp=CAU"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "team_name": "Carolina Panthers",
       "city": "Charlotte",
       "state": "NC",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiy_kNTXHtZtC0wObH7-FZCCrqYawcYq1aBw&usqp=CAU"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "team_name": "Chicago Bears",
       "city": "Chicago",
       "state": "IL",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpy9un0LVnxLrQ-ssknsnl2fzlb-x2csaHJg&usqp=CAU"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "team_name": "Cincinnati Bengals",
       "city": "Cincinnati",
       "state": "OH",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhvlGYD1IGuBqEkSrmgrsTv7cSB1ldjE9mA&usqp=CAU"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "team_name": "Cleveland Browns",
       "city": "Cleveland",
       "state": "OH",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3aVsYHRdbcMFbDD5npHGakRQ_SdTpjWq9Q&usqp=CAU"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "team_name": "Dallas Cowboys",
       "city": "Arlington",
       "state": "TX",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBOp2ne3EeHx-8M1vtDsq5DniZwnw7YZy5Q&usqp=CAU"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "team_name": "Denver Broncos",
       "city": "Denver",
       "state": "CO",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJ9spJtMMOc5hqZ9TnbWd8HKgqrNqSni37A&usqp=CAU"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "team_name": "Detroit Lions",
       "city": "Detroit",
       "state": "MI",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdY5JPYOqB-7w_S84YrOYSyg0jUUUO8G9R6w&usqp=CAU"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "team_name": "Green Bay Packers",
       "city": "Green Bay",
       "state": "WI",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDe_AMTGL4T8YIyiYHq6NmzQ52Y5o42sLkw&usqp=CAU"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "team_name": "Houston Texans",
       "city": "Houston",
       "state": "TX",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFTlu5yLAXVf5-V4GTu7ooB95s0KzFocwyjg&usqp=CAU"
     },
     {
       "id": 14,
@@ -110,7 +110,7 @@
       "team_name": "Indianapolis Colts",
       "city": "Indianapolis",
       "state": "IN",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwonNgUGjxhNAAQefM3IsxbgCMv86jmai3uw&usqp=CAU"
     },
     {
       "id": 15,
@@ -118,7 +118,7 @@
       "team_name": "Jacksonville Jaguars",
       "city": "Jacksonville",
       "state": "FL",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn38ikYiwM8fkALEm1xqipU2npPOsj_R-NA&usqp=CAU"
     },
     {
       "id": 16,
@@ -126,7 +126,7 @@
       "team_name": "Kansas City Chiefs",
       "city": "Kansas City",
       "state": "MO",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cnSV256JZ03WOBwVhGrE9qfxAUDj6oHtWQ&usqp=CAU"
     },
     {
       "id": 17,
@@ -134,7 +134,7 @@
       "team_name": "Las Vegas Raiders",
       "city": "Paradise",
       "state": "NV",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49F54d7WNMeKhu7CcNs-QkIf82i2DmBDqaw&usqp=CAU"
     },
     {
       "id": 18,
@@ -142,7 +142,7 @@
       "team_name": "Los Angeles Chargers",
       "city": "Inglewood",
       "state": "CA",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuIo94CQ7qQz5QK06RtQXCOZaNv6KFwaGXw&usqp=CAU"
     },
     {
       "id": 19,
@@ -150,7 +150,7 @@
       "team_name": "Los Angeles Rams",
       "city": "Inglewood",
       "state": "CA",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6qshxRejZ66s1l37Cy54ZI4uw-DInm--D7Q&usqp=CAU"
     },
     {
       "id": 20,
@@ -158,7 +158,7 @@
       "team_name": "Miami Dolphins",
       "city": "Miami Gardens",
       "state": "FL",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzb5cQkjYnf0_14jqkOcLbCh8pcpxzJ584w&usqp=CAU"
     },
     {
       "id": 21,
@@ -166,7 +166,7 @@
       "team_name": "Minnesota Vikings",
       "city": "Minneapolis",
       "state": "MN",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpRyGQ_6Sg1towHCImiw5qZ41kofa_SmljYw&usqp=CAU"
     },
     {
       "id": 22,
@@ -174,7 +174,7 @@
       "team_name": "New England Patriots",
       "city": "Foxborough",
       "state": "MA",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrqnHUVmV8U7eY8VpSmsWTtCJHjrbdY5XEQ&usqp=CAU"
     },
     {
       "id": 23,
@@ -182,7 +182,7 @@
       "team_name": "New Orleans Saints",
       "city": "New Orleans",
       "state": "LA",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQncW17A5XQCnVdmHSHD2z2wYkxwZJzL24aJA&usqp=CAU"
     },
     {
       "id": 24,
@@ -190,7 +190,7 @@
       "team_name": "New York Giants",
       "city": "East Rutherford",
       "state": "NJ",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl3Vsw6MuMJX-69JkRyInbjkEF-ER8tyBTyA&usqp=CAU"
     },
     {
       "id": 25,
@@ -198,7 +198,7 @@
       "team_name": "New York Jets",
       "city": "East Rutherford",
       "state": "NJ",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhRjDt1wHPYx9cqclnYF0qEpAIWZDkAo7jw&usqp=CAU"
     },
     {
       "id": 26,
@@ -206,7 +206,7 @@
       "team_name": "Philadelphia Eagles",
       "city": "Philadelphia",
       "state": "PA",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQODsIZw8YCLJc_UoNx5_vVEnOqGC38i7EbA&usqp=CAU"
     },
     {
       "id": 27,
@@ -214,7 +214,7 @@
       "team_name": "Pittsburgh Steelers",
       "city": "Pittsburgh",
       "state": "PA",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8wqizh9Ulwe7RmqKd7PFUbFo56wIIDYGmkw&usqp=CAU"
     },
     {
       "id": 28,
@@ -222,7 +222,7 @@
       "team_name": "San Francisco 49ers",
       "city": "Santa Clara",
       "state": "CA",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCtwQYOv5x9ANTU9vEoX_oFM0DTGut6HKsg&usqp=CAU"
     },
     {
       "id": 29,
@@ -230,7 +230,7 @@
       "team_name": "Seattle Seahawks",
       "city": "Seattle",
       "state": "WA",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoQj9oHNrlo5rvZs6PVD27qwr80WlzbD3_Q&usqp=CAU"
     },
     {
       "id": 30,
@@ -238,7 +238,7 @@
       "team_name": "Tampa Bay Buccaneers",
       "city": "Tampa",
       "state": "FL",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABig7FMuA52heBgdt_0Jayu3aRmDiJlfqrg&usqp=CAU"
     },
     {
       "id": 31,
@@ -246,7 +246,7 @@
       "team_name": "Tennessee Titans",
       "city": "Nashville",
       "state": "TN",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0CC472leOOmSDPwIMd4Z6cAOJ9IwlwEcNw&usqp=CAU"
     },
     {
       "id": 32,
@@ -254,7 +254,7 @@
       "team_name": "Washington Football Team",
       "city": "Landover",
       "state": "MD",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRta2H3QTk7sw7Uekz1az4S9dCugf8TZJtLLA&usqp=CAU"
     }
   ]
 }

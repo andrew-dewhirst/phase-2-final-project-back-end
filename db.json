@@ -328,7 +328,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRtoZbqU1t47Lvrd9fMO7wRPoJOUx2k-v4w&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 34,
@@ -338,7 +338,7 @@
       "city": "Cumberland",
       "state": "GA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGJIpW6T-vYXiMDVh3HUE-R30CH5lfRBxySA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 35,
@@ -348,7 +348,7 @@
       "city": "Baltimore",
       "state": "MD",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3oyNmHfIBn6h0lUWJBEnli8e9rgjYkc4PLw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 36,
@@ -358,7 +358,7 @@
       "city": "Boston",
       "state": "MA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDT1ioWZsRhT_m7uSRzadS-p2m0m2EcutxXg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 37,
@@ -368,7 +368,7 @@
       "city": "Chicago",
       "state": "IL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRG62mhzSFEAmJybXEsKueZyUDaP36tcw6NQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 38,
@@ -378,7 +378,7 @@
       "city": "Chicago",
       "state": "IL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SY9PBjmOJOVRpQI1Q85EAV0vTpSs3PXn1g&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 39,
@@ -388,7 +388,7 @@
       "city": "Cincinnati",
       "state": "OH",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7W5A8duDbaoxoVVkb-4FHeQ9CFQpls12Dg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 40,
@@ -398,7 +398,7 @@
       "city": "Cleveland",
       "state": "OH",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3oJ7QLz1gev5tx66Ij7hAZ59GPokQ-ah0Zw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 41,
@@ -408,7 +408,7 @@
       "city": "Denver",
       "state": "CO",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrMSPol_V8uJrdI9znvJtinIzZXlkIfU3FjQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 42,
@@ -418,7 +418,7 @@
       "city": "Detroit",
       "state": "MI",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWFlIXfqN_B4wd_8NkkY6AeGvZcrzQCIFRw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 43,
@@ -428,7 +428,7 @@
       "city": "Houston",
       "state": "TX",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRScDIehwiesi2eAYlTUz4a4SPNOKLdkA4Eug&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 44,
@@ -438,7 +438,7 @@
       "city": "Kansas City",
       "state": "MO",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgqg_psIPEdNFtusXsxmIcPGaYYhKfsz74A&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 45,
@@ -448,7 +448,7 @@
       "city": "Anaheim",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWmz1Z3DUvqLkx701Zh6JVeeP4qFLelGvldw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 46,
@@ -458,7 +458,7 @@
       "city": "Los Angeles",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpbts1URN1ftnRAdAbA08Tt1SZtCaVSJYDQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 47,
@@ -468,7 +468,7 @@
       "city": "Miami",
       "state": "FL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfwzyyclJyTFqulAyXCez_Y96NL11lnjK-w&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 48,
@@ -478,7 +478,7 @@
       "city": "Milwaukee",
       "state": "WI",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKSZLxUM-MrIlidLXkZaL1_k54c06e7FYTvw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 49,
@@ -488,7 +488,7 @@
       "city": "Minneapolis",
       "state": "MN",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XLF71fmFJ4I0tLFQd8uQaE6wCNsuLdXq6g&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 50,
@@ -498,7 +498,7 @@
       "city": "Queens",
       "state": "NY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdqx1JsTkUVh1pknIZu8NYBGoBq-W9FUagYg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 51,
@@ -508,7 +508,7 @@
       "city": "Bronx",
       "state": "NY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7i14qh3RVQm521bDBQqOYyE9_neWb7Za7Dw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 52,
@@ -518,7 +518,7 @@
       "city": "Oakland",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLtExyTr9w1Pzq8DSbKgV1wE_fIHfwzVe-ow&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 53,
@@ -528,7 +528,7 @@
       "city": "Philadelphia",
       "state": "PA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cXPS2L8FQbXnMup1VGtiaNRK1QJrVf0nDg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 54,
@@ -538,7 +538,7 @@
       "city": "Pittsburgh",
       "state": "PA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwbFbe5y_gdTb4O7jyxfn5et8BolCfRJBHA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 55,
@@ -548,7 +548,7 @@
       "city": "San Diego",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7D6pLBqG0KeGj2PbqSVH3V8LUKtmvn04RQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 56,
@@ -558,7 +558,7 @@
       "city": "San Francisco",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsjWHiVrp4JuQGKd5w-c7Wyd9-eRnAhB3sQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 57,
@@ -568,7 +568,7 @@
       "city": "Seattle",
       "state": "WA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_DulyQfWRmO6jYNcd10QVqhtkb22Y290wPg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 58,
@@ -578,7 +578,7 @@
       "city": "St. Louis",
       "state": "MO",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGS8mupt2RLeiBd0yoRhn8y6COmpOvBpSqA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 59,
@@ -588,7 +588,7 @@
       "city": "St. Petersburg",
       "state": "FL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIIyF_EjVrwDj8H2E0B7YYSj4b9sHkDS_ZA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 60,
@@ -598,7 +598,7 @@
       "city": "Arlington",
       "state": "TX",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC468Ti_bPttUFN5sGNB2t8b36Gxt_Z9ybgg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 61,
@@ -608,7 +608,7 @@
       "city": "Toronto",
       "state": "ON",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_qM5Ap0ltmLNvV4K_1rAFnGAuJSbBPUKNvw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 62,
@@ -618,7 +618,7 @@
       "city": "Washington",
       "state": "DC",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFlflClgF07QrrQ6qml6KaU9l2c_WiqwRHUQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 63,
@@ -628,7 +628,7 @@
       "city": "Atlanta",
       "state": "GA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhqmGQO1Ws_lMNnH1mKBq1KEsEC3j3Iv4-A&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 64,
@@ -638,7 +638,7 @@
       "city": "Boston",
       "state": "MA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUkDncTvULyhFYhPh3Aew16Eqxt0J10Vx-g&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 65,
@@ -648,7 +648,7 @@
       "city": "Brooklyn",
       "state": "NY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJthPJMD8xAKMkNJXJwtLezTO6-8YbsQFEA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 66,
@@ -658,7 +658,7 @@
       "city": "Charlotte",
       "state": "NC",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_emnmjYKI89GryoE6aNjZZ26os6_hMF1_Cw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 67,
@@ -668,7 +668,7 @@
       "city": "Chicago",
       "state": "IL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wHwNprCB-R2QmzAvPtXa7oKk5t1aWFJ2Ag&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 68,
@@ -678,7 +678,7 @@
       "city": "Cleveland",
       "state": "OH",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPH3NCPipvHT--Nfq2Fii4SZFxeMp9hTFxKg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 69,
@@ -688,7 +688,7 @@
       "city": "Dallas",
       "state": "TX",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhHAPoJW4hgQAKDthu6J1kbG2juwmoz2AkQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 70,
@@ -698,7 +698,7 @@
       "city": "Denver",
       "state": "CO",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmT1cauMfxdi6hYzDNcND2misBe7WfGKeTg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 71,
@@ -708,7 +708,7 @@
       "city": "Detroit",
       "state": "MI",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJogJlUUvKGFqFonPNg6j0Mlt3H3Gdud8hgw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 72,
@@ -718,7 +718,7 @@
       "city": "San Francisco",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVbkn0sTqde7CN3CB1wTnb1JxMGZiElbJetA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 73,
@@ -728,7 +728,7 @@
       "city": "Houston",
       "state": "TX",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVEaSYAHKe_4ADMdVPILSV0L4erEgGtTVDg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 74,
@@ -738,7 +738,7 @@
       "city": "Indianapolis",
       "state": "IN",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtajjbLMWZY0_1Ktfams78W4af3lj1u4cHYg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 75,
@@ -748,7 +748,7 @@
       "city": "Los Angeles",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18qn-AJcGtZ9Vu2F5i3BabK4rU4BfLwHvKw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 76,
@@ -758,7 +758,7 @@
       "city": "Los Angeles",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQP9HN6v9ahV3YSk_E-o-zzQZtt5yYNVoQJQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 77,
@@ -768,7 +768,7 @@
       "city": "Memphis",
       "state": "TN",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVy3p9kj_asAUv4Xsk8VIGg8ePE0Mp1gwL6Q&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 78,
@@ -778,7 +778,7 @@
       "city": "Miami",
       "state": "FL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYZEvqcQ-pgIOgJhzHZMPxjB_oSOAyFFTNA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 79,
@@ -788,7 +788,7 @@
       "city": "Milwaukee",
       "state": "WI",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAUmgAWFgiTgyEDn9_DbPAt8tmm4pSPek64A&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 80,
@@ -798,7 +798,7 @@
       "city": "Minneapolis",
       "state": "MN",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3qYcZx9rXHTmeTNRtfbxtEuGZDo7ABXluw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 81,
@@ -808,7 +808,7 @@
       "city": "New Orleans",
       "state": "LA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwG1u050DdxwCCxtZGzQgx2hmU3bD9NrEAig&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 82,
@@ -818,7 +818,7 @@
       "city": "New York",
       "state": "NY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRDtznXuF_D2d7VSnwwp0f9y9K1UmG-31SVw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 83,
@@ -828,7 +828,7 @@
       "city": "Oklahoma City",
       "state": "OK",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjRhYS_zEOkXEnCgmN5dDgo5cQAOkcBdLY1Q&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 84,
@@ -838,7 +838,7 @@
       "city": "Orlando",
       "state": "FL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s6-kJtCJf60Vt3mGKCAxuRkacGrp4funHg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 85,
@@ -848,7 +848,7 @@
       "city": "Philadelphia",
       "state": "PA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSlacU-fRGFdZxps1GCRWv3m1NPtatfJqBMQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 86,
@@ -858,7 +858,7 @@
       "city": "Phoenix",
       "state": "AZ",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTWcDJiEFzIOSAbm1bFIYgsNXIQ03Pc5Lug&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 87,
@@ -868,7 +868,7 @@
       "city": "Portland",
       "state": "OR",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BJTpzdEctJS0uiMndlv_K8oWc8k-_HjYLQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 88,
@@ -878,7 +878,7 @@
       "city": "Sacramento",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPeFRG_PrIhWBVBQ83ZKOe0iDX00j1ZrSUw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 89,
@@ -888,7 +888,7 @@
       "city": "San Antonio",
       "state": "TX",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdv_CbXQEy1llQhIRtKmx2IJrs_EyJbDNHA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 90,
@@ -898,7 +898,7 @@
       "city": "Toronto",
       "state": "ON",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfVJGMskKYcA5S5HlQl1Gd7mdUj16CtDeTA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 91,
@@ -908,7 +908,7 @@
       "city": "Salt Lake City",
       "state": "UT",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1CPZnS9JULh8BQo4kBRHMawPfyolcQb6Jg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 92,
@@ -918,7 +918,7 @@
       "city": "Washington",
       "state": "DC",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwpdS-PhUxI0hdZrTU3OElD339qU2rMF-b8g&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 93,
@@ -928,7 +928,7 @@
       "city": "Anaheim",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrQFsAywdcsfkuBKQIiUYUcasJLwhVML8KQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 94,
@@ -938,7 +938,7 @@
       "city": "Glendale",
       "state": "AZ",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaA5NImZiOyCp4_YRlv9f3rPjLtr4mfl_TKg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 95,
@@ -948,7 +948,7 @@
       "city": "Boston",
       "state": "MA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXkhqUCYY9bJl4ykbFFkjF0amBo5niP3Tcw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 96,
@@ -958,7 +958,7 @@
       "city": "Buffalo",
       "state": "NY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ277HZOpCHdPW4PwWRNbiy1kZzhxN5YEMrig&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 97,
@@ -968,7 +968,7 @@
       "city": "Calgary",
       "state": "AB",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOruK2LQOSCh-WAIwSqQVFazEUuvOlOqR9w&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 98,
@@ -978,7 +978,7 @@
       "city": "Raleigh",
       "state": "NC",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBsfsbNK0sY5ETJsjFjPmjoG13Xo9GoAAKA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 99,
@@ -988,7 +988,7 @@
       "city": "Chicago",
       "state": "IL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHhbMcTya71wc-TrgaKz1yVHrPBpnuXupFQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 100,
@@ -998,7 +998,7 @@
       "city": "Denver",
       "state": "CO",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwN3uZd0-hIf-pwCRKm4_YkP0S6OBedxqnug&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 101,
@@ -1008,7 +1008,7 @@
       "city": "Columbus",
       "state": "OH",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1fFexWxbkuEE8VlAmTKl-xFJTWbcS0kikew&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 102,
@@ -1018,7 +1018,7 @@
       "city": "Dallas",
       "state": "TX",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSSl15qZf9HTr9iFgR_ohbgGHOvxELzSdGDQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 103,
@@ -1028,7 +1028,7 @@
       "city": "Detroit",
       "state": "MI",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMuHLLNWBO2lnZot3nz6JrdRdGRRKqIotbA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 104,
@@ -1038,7 +1038,7 @@
       "city": "Edmonton",
       "state": "AB",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ8AU7ZUymCFdqdAM568-CrS5pUygfrcuykA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 105,
@@ -1048,7 +1048,7 @@
       "city": "Sunrise",
       "state": "FL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHMqvhJkyPiquVzFenR2JbxXIihPJocZwdw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 106,
@@ -1058,7 +1058,7 @@
       "city": "Los Angeles",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOBQz21koZJH5m-upU761npMGzVDk30x4ePg&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 107,
@@ -1068,7 +1068,7 @@
       "city": "Saint Paul",
       "state": "MN",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8JQmBU1wT4YRqXp6_xiubT79qo_rLSueQw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 108,
@@ -1078,7 +1078,7 @@
       "city": "Montreal",
       "state": "QC",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYICWrdhclbLDbAnwPMv9OKC2sZJhcPZ8zw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 109,
@@ -1088,7 +1088,7 @@
       "city": "Nashville",
       "state": "TN",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9V0xLpkLesV92f47ZIYmJSccH6o0p9oKBA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 110,
@@ -1098,7 +1098,7 @@
       "city": "Newark",
       "state": "NJ",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm8Vfuf2UoXGJMKkQvuqGePuRGB7ebD-Qx6w&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 111,
@@ -1108,7 +1108,7 @@
       "city": "Elmont",
       "state": "NY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpgXN7zepFDgdhzyKgZItlIJHZbG6tPOczA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 112,
@@ -1118,7 +1118,7 @@
       "city": "New York",
       "state": "NY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOQLwev7TxLDm0aVweWwS9KYKThxjRIT_1g&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 113,
@@ -1128,7 +1128,7 @@
       "city": "Ottawa",
       "state": "ON",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdlAYyAIeavbZ1AcWw-n9pZ4hHggmSZTxEFw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 114,
@@ -1138,7 +1138,7 @@
       "city": "Philadelphia",
       "state": "PA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99Xb71nyxas5R7t6gNRCP_bzIRsecPjanrA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 115,
@@ -1148,7 +1148,7 @@
       "city": "Pittsburgh",
       "state": "PA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-9-7NI1MCxSCgaaO7ccwGTERRQl69Vcvfw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 116,
@@ -1158,7 +1158,7 @@
       "city": "San Jose",
       "state": "CA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUdBnvfrPAWIWb7ISoouD1o6ka6yCboTTwA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 117,
@@ -1168,7 +1168,7 @@
       "city": "Seattle",
       "state": "WA",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZehou3WWXnGDsEn-xxBlm4iuY7ny4lHLGQ&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 118,
@@ -1178,7 +1178,7 @@
       "city": "St. Louis",
       "state": "MO",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ehSlRw2GCX0hEZksacSujVFoJu27DcgaVw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 119,
@@ -1188,7 +1188,7 @@
       "city": "Tampa",
       "state": "FL",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQqQ-IHb9b2yHahCj3lAt-127MOf_KbXBMHw&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 120,
@@ -1198,7 +1198,7 @@
       "city": "Toronto",
       "state": "ON",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSos5QwATkRkLMG_mnT_015JLhSIVc_8LWtXA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 121,
@@ -1208,7 +1208,7 @@
       "city": "Vancouver",
       "state": "BC",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHeEdx_SRill0Qozi4Y7Vjh9uXb2eKrt7_QA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 122,
@@ -1218,7 +1218,7 @@
       "city": "Paradise",
       "state": "NV",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrGhWZj9qySM2elruQdR4838BBk8IihVkzag&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 123,
@@ -1228,7 +1228,7 @@
       "city": "Washington",
       "state": "DC",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTfzhQ1Dd0g2dWU0u3ZnEsirqoPnGsTjvIDA&usqp=CAU",
-      "attended": "N"
+      "attended": false
     },
     {
       "id": 124,
@@ -1238,7 +1238,7 @@
       "city": "Winnipeg",
       "state": "MB",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiH3LnnLz1dTW0YFa3zkq12SdQv6-E-9e34Q&usqp=CAU",
-      "attended": "N"
+      "attended": false
     }
   ]
 }
